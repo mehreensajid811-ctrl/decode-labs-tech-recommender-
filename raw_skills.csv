@@ -1,0 +1,17 @@
+role,skills
+Data Scientist,python;sql;machine learning;statistics;data analysis;pandas;scikit-learn;data visualization
+Machine Learning Engineer,python;machine learning;deep learning;tensorflow;pytorch;docker;mlops;cloud
+Data Analyst,sql;excel;data analysis;data visualization;power bi;tableau;statistics;python
+Data Engineer,python;sql;spark;etl;airflow;cloud;aws;data warehousing
+DevOps Engineer,aws;docker;kubernetes;ci/cd;linux;automation;terraform;git;cloud
+Cloud Architect,aws;azure;cloud;terraform;networking;security;kubernetes;automation
+Site Reliability Engineer,linux;kubernetes;monitoring;automation;python;cloud;ci/cd;networking
+System Administrator,linux;networking;bash;automation;security;virtualization;monitoring
+Backend Developer,java;python;sql;apis;docker;git;data structures;microservices
+Frontend Developer,javascript;html;css;react;web design;typescript;git;ui/ux
+Full Stack Developer,javascript;react;node.js;sql;apis;html;css;git;docker
+Mobile App Developer,kotlin;swift;flutter;apis;git;ui/ux;firebase;react native
+Cybersecurity Analyst,security;networking;linux;python;penetration testing;cryptography;monitoring
+QA Automation Engineer,python;selenium;automation;ci/cd;java;git;testing;apis
+AI Research Engineer,python;deep learning;pytorch;mathematics;machine learning;nlp;algorithms;data structures
+Software Engineer,java;python;data structures;algorithms;git;sql;apis;testing
